@@ -1,4 +1,4 @@
-//trivial edit
+// edit
 function sayHi(name) {
   return `Hello W ${name}`
 }
